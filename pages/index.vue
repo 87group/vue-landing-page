@@ -17,13 +17,13 @@
                 <a href="/">
                     <img src="/google.png" style="width: 216px; height: 64px;"></a>
                 <div style="width: 20px;"></div>
-                <a href="/">
+                <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
                     <img src="/appstore.png" style="width: 216px; height: 64px;"></a>
                 <div style="width: 20px;"></div>
                 <a href="/">
                     <img src="/Android.png" style="width: 216px; height: 64px;"></a>
                 <div style="width: 20px;"></div>
-                <a :href="'/?' + queryParams">
+                <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
                     <img src="/windows.png" style="width: 216px; height: 64px;"></a>
             </van-col>
             <van-col span="6"></van-col>
@@ -40,6 +40,7 @@ import { useRouter, useRoute } from 'vue-router';
 
 const router = useRouter();
 const route = useRoute();
+let get_val = '';
 
 function handleRoute(to, from, next) {
     const userAgent = window.navigator.userAgent;
@@ -59,12 +60,16 @@ function initializeRouteHandling() {
 }
 initializeRouteHandling();
 
-
-
-
 // 获取当前页面的 URL
 const queryParams = route.query;
-console.log(queryParams);
+function url_get()//deep_link_sub2
+{
+    if(queryParams.deep_link_value != undefined)
+    {
+        get_val = '?deep_link_value=' + queryParams.deep_link_value + '&deep_link_sub2=' + queryParams.deep_link_sub2;
+    }
+    return get_val;
+}
 
 </script>
 

@@ -28,8 +28,6 @@
 import { ref } from 'vue';
 
 let Props_lab = defineProps(['label_active']);
-console.log(Props_lab);
-
 let label_active = Props_lab.label_active;
 
 const index = {
