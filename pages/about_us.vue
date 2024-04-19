@@ -2,12 +2,12 @@
     <div class="div-main">
         <lable :label_active="1"></lable>
 
-        <van-row style="height: 680px; display: flex; align-items: flex-end; justify-content: center;">
+        <van-row style="height:65vh; display: flex; align-items: flex-end; justify-content: center;">
             <van-col span="12" class="frame-img">
-                <img src="/frame.png" style="width: 663px; height: 560px;padding-left: 15vw;">
+                <img src="/frame.png" style="aspect-ratio: 66/56; height: 60vh;padding-left: 10vw;">
             </van-col>
             <van-col span="12" class="frame-img">   
-                <img src="/star.png" style="width: 544px; height: 467px;padding-right: 15vw;">
+                <img src="/star.png" style="aspect-ratio: 54/46; height: 50vh;padding-right: 10vw;">
             </van-col>
         </van-row>
 

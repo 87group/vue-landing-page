@@ -6,7 +6,7 @@
         <van-row>
             <van-col span="6"></van-col>
             <van-col span="12" class="content-content">
-                <img src="/content.png" style="width: 650px; height: 570px;">
+                <img src="/content.png" style="aspect-ratio: 65/57; height: 60vh;">
             </van-col>
             <van-col span="6"></van-col>
         </van-row>
@@ -14,17 +14,17 @@
         <van-row>
             <van-col span="6"></van-col>
             <van-col span="12" class="content-png">
-                <a href="/">
+                <!-- <a href="/">
                     <img src="/google.png" style="width: 216px; height: 64px;"></a>
-                <div style="width: 20px;"></div>
+                <div style="width: 20px;"></div> -->
                 <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
                     <img src="/appstore.png" style="width: 216px; height: 64px;"></a>
                 <div style="width: 20px;"></div>
                 <a href="/">
                     <img src="/Android.png" style="width: 216px; height: 64px;"></a>
-                <div style="width: 20px;"></div>
+                <!-- <div style="width: 20px;"></div>
                 <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
-                    <img src="/windows.png" style="width: 216px; height: 64px;"></a>
+                    <img src="/windows.png" style="width: 216px; height: 64px;"></a> -->
             </van-col>
             <van-col span="6"></van-col>
         </van-row>

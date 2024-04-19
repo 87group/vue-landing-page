@@ -31,17 +31,17 @@ let Props_lab = defineProps(['label_active']);
 let label_active = Props_lab.label_active;
 
 const index = {
-    active: 'home-a.png',
-    inactive: 'home.png',
+    active: '/home-a.png',
+    inactive: '/home.png',
 };
 const about_us = {
-    active: 'about-a.png',
-    inactive: 'about.png',
+    active: '/about-a.png',
+    inactive: '/about.png',
 };
 
 const contact = {
-    active: 'contact-a.png',
-    inactive: 'contact.png',
+    active: '/contact-a.png',
+    inactive: '/contact.png',
 };
 
 </script>

@@ -33,19 +33,19 @@
 
         <van-row>
             <van-col span="24" class="content-png">
-                <img src="/google.png" style="width: 172px; height: 51px;">
+                <img src="/appstore.png" style="width: 153px; height: 51px;">              
                 <div style="width: 10px;"></div>
                 <img src="/Android.png" style="width: 140px; height: 51px;">
             </van-col>
         </van-row>
 
-        <van-row>
+        <!-- <van-row>
             <van-col span="24" class="content-png">
                 <img src="/windows.png" style="width: 153px; height: 51px;">
                 <div style="width: 10px;"></div>
-                <img src="/appstore.png" style="width: 153px; height: 51px;">
+                <img src="/google.png" style="width: 172px; height: 51px;">
             </van-col>
-        </van-row>
+        </van-row> -->
 
         <explain-m></explain-m>
 
@@ -140,7 +140,7 @@ console.log(queryParams);
     justify-content: center;
     /* 水平居中 */
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .poker-png {
