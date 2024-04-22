@@ -1,6 +1,6 @@
 <template>
     <div class="div-main">
-        <lable :label_active="2"></lable>
+        <Lable :label_active="2"></Lable>
 
         <van-row>
             <van-col span="24" class="frame-img">   
@@ -10,13 +10,13 @@
 
         <van-row>
             <van-col span="24" class="sup">   
-                <a href=""><img src="/sup.png" style="width: 436px; height: 65px;"></a>
+                <a href="mailto:support@87poker.club"><img src="/sup.png" style="width: 436px; height: 65px;"></a>
             </van-col>
         </van-row>
 
         <van-row>
             <van-col span="24" class="sup">
-                <a href=""><img src="/fac.png" style="width: 436px; height: 65px;"></a>                   
+                <a href="https://www.facebook.com/Poker-Hub-102390622281272/"><img src="/fac.png" style="width: 436px; height: 65px;"></a>                   
             </van-col>
         </van-row>
         
@@ -84,7 +84,7 @@ initializeRouteHandling();
 }
 
 .frame-img {
-    margin-top: 200px;
+    margin-top: 22vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -96,5 +96,11 @@ initializeRouteHandling();
     justify-content: center;
     align-items: center;
     /* 水平居中 */
+}
+
+.explain-png {
+    margin-top: 22vh;
+    text-align: center;
+    /* 如果您希望内容水平居中 */
 }
 </style>

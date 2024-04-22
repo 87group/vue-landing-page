@@ -6,13 +6,9 @@
 </template>
 
 <style setup>
+
 .explain-png {
-    position: fixed;
-    /* 或者使用 position: absolute; 如果您需要它相对于某个父级元素定位 */
-    left: 0;
-    right: 0;
-    bottom: 10px;
-    margin: auto;
+    margin-top: 50px;
     text-align: center;
     /* 如果您希望内容水平居中 */
 }

@@ -1,0 +1,551 @@
+<template>
+
+    <div>
+        <p style="margin-top:0pt; margin-bottom:10pt; font-size:18pt"><span
+                style="font-family:Helvetica; font-weight:bold; color:#24292f; background-color:#ffffff">Privacy
+                Policy</span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Thank you for using our products and services! We respect
+                your concerns about privacy and appreciate your trust and confidence in </span><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> ("</span><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">", "we", "us" or "our").</span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">This Privacy Policy provides important information
+                regarding:</span></p>
+        <ol type="1" style="margin:0pt; padding-left:0pt">
+            <li
+                style="margin-top:12pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">the information collected from
+                    you and the ways we collect your information,</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify;  font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">the reasons why we collect
+                    your information,</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">to whom we disclose your
+                    information,and</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f"></span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; margin-bottom:12pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">the options you have about
+                    your personal information.</span></li>
+        </ol>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Unless stated otherwise, this Privacy Policy applies to the
+                Services and all data that we collect from you. We therefore provide this Privacy Policy to help you
+                make an informed choice about whether to use or continue using our Services. We may periodically update
+                this Privacy Policy by posting a new version on our website. Your continued use of the Services after
+                the effective date will be subject to the new version of Privacy Policy.</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">1. Contact Us</span></h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">If you have any questions or concerns about any of the
+                matters in relation to this Privacy Policy, including to exercise any of your rights, please contact us
+                through E-mail: support@</span><span style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">.net</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">2. Information We Collect</span></h3>
+        <h4 style="margin-top:24pt; margin-bottom:12pt; line-height:12pt"><span
+                style="font-family:Helvetica; font-size:12pt; color:#24292f">2.1 How we collect your information</span>
+        </h4>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> collects some information from you when you:</span><span
+                style="font-family:Helvetica; color:#24292f"></span></p>
+        <ol type="1" style="margin:0pt; padding-left:0pt">
+            <li
+                style="margin-top:12pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">create an account;</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">play our games or use
+                    game-related services;</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f"></span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">make a purchase within our
+                    Services;</span><span style="font-family:Helvetica; font-size:12pt; color:#24292f"></span>
+            </li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">create user-generated
+                    content;</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">sign up for a
+                    newsletter;</span><span style="font-family:Helvetica; font-size:12pt; color:#24292f"></span>
+            </li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">contact </span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f">87 Poker</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f"> customer service and take part in
+                    technical-support sessions;</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; margin-bottom:12pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">chat with other users of the
+                    Services;</span><span style="font-family:Helvetica; font-size:12pt; color:#24292f"></span>
+            </li>
+        </ol>
+        <h4 style="margin-top:24pt; margin-bottom:12pt; line-height:12pt"><span
+                style="font-family:Helvetica; font-size:12pt; color:#24292f">2.2 Information we collect</span></h4>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> collects only adequate and relevant information limited to
+                the purposes defined hereunder.</span></p>
+        <p style="margin-top:12pt; margin-left:36pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Information you provide us</span></p>
+        <p style="margin-top:12pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">1.</span><span
+                style="font-family:Helvetica; color:#24292f">Contact information (such as your name and email
+                address)</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">2.</span><span
+                style="font-family:Helvetica; color:#24292f">Your username and password</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">3.</span><span
+                style="font-family:Helvetica; color:#24292f">Profile information (such as a profile picture)</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">4.</span><span
+                style="font-family:Helvetica; color:#24292f">Information that you provide when seeking help from our
+                customer service</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">5.</span><span
+                style="font-family:Helvetica; color:#24292f">Other information you provide us (such as information used
+                to identify a lost account)</span></p>
+        <p style="margin-top:12pt; margin-left:47.9pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Information we automatically collect directly from you when
+                you use our Services</span></p>
+        <p style="margin-top:12pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">1.</span><span
+                style="font-family:Helvetica; color:#24292f">Information about your game progress and activity</span>
+        </p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">2.</span><span
+                style="font-family:Helvetica; color:#24292f">Information about your interactions with other
+                players</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">3.</span><span
+                style="font-family:Helvetica; color:#24292f">IP address and device identifiers (such as your device ID,
+                advertising ID, MAC address, IMEI)</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">4.</span><span
+                style="font-family:Helvetica; color:#24292f">Information about your device (such as device name and
+                operating system, browser</span><span style="font-family:Helvetica; color:#24292f"></span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">5.</span><span
+                style="font-family:Helvetica; color:#24292f">information, including browser type and the language you
+                prefer)</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">6.</span><span
+                style="font-family:Helvetica; color:#24292f">Information we collect using cookies and similar
+                technologies</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">7.</span><span
+                style="font-family:Helvetica; color:#24292f">General geolocation information</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">8.</span><span
+                style="font-family:Helvetica; color:#24292f">Precise geolocation information (GPS), if you configure
+                your device location settings</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">9.</span><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> player ID</span></p>
+        <p style="margin-top:12pt; margin-left:36pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Information we obtain from our partners ( Such as billing
+                partners)</span></p>
+        <p style="margin-top:12pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">1.</span><span
+                style="font-family:Helvetica; color:#24292f">Information that we receive if you decide to connect to a
+                third-party social network (such as Facebook )</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">2.</span><span
+                style="font-family:Helvetica; color:#24292f">Information</span><span
+                style="font-family:Helvetica; color:#24292f"> </span><span
+                style="font-family:Helvetica; color:#24292f">from billing and distribution partners (if you make in-game
+                purchases)</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">3.</span><span
+                style="font-family:Helvetica; color:#24292f">Information for advertising and analytics purposes, so we
+                can provide you with better Services</span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">4.</span><span
+                style="font-family:Helvetica; color:#24292f">Information (such as IPs, Device IDs) we may receive from
+                other partners, which we use to place / send you advertising</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">3. How We Use Your Information</span></h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Under normal circumstances, we only collect personal
+                information from you when:</span></p>
+        <ol type="1" style="margin:0pt; padding-left:0pt">
+            <li
+                style="margin-top:12pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">we have a legal obligation to
+                    collect and process personal information from you</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">we have your consent to do
+                    so</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">We need the personal
+                    information to fulfill a contract with you and provide you with the Services, such as customer
+                    support services, bug and service-error detection, and fraud prevention</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; margin-bottom:12pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">the processing is in our
+                    legitimate interests (when we serve and measure the effectiveness of advertising or marketing
+                    campaigns, analyze your gaming activities, protect and improve our products and services) and not
+                    overridden by your rights, or when we have a legal obligation to collect personal information from
+                    you</span></li>
+        </ol>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">We primarily use the information to provide you with a
+                better gaming experience, but we also use your information, both individually and combined, as
+                follows:</span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">To operate our business and to enhance your gaming
+                experience, including to:</span></p>
+        <ol type="1" style="margin:0pt; padding-left:0pt">
+            <li
+                style="margin-top:12pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">provide you with the Services
+                    that are suitable for your age and compliant with the applicable laws of your country of
+                    residence</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">provide gaming experiences
+                    that you may like and functionalities you have subscribed to track your use of the Services to help
+                    us learn more about your gaming activities and understand your preferences and tendencies, so that
+                    we can personalize your experience, provide you with in-game offers and notifications that are
+                    tailored to you, and otherwise enhance your gaming experience</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">facilitate sharing on social
+                    networks</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">protect against cheating,
+                    crime or fraud, or for other security reasons</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">identify and fix bugs and
+                    service errors</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">use it for administration,
+                    analytics, research, and optimization</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">compile statistics</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">comply with all regulatory and
+                    legal requirements, and answer any requests from Data Protection Authorities or any law enforcement
+                    agency</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">To provide you with support,
+                    communicate with you and respond to any requests or questions you have submitted through our
+                    customer support.</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:6.81pt">
+                <span style="font:7pt 'Times New Roman'; -aw-list-padding-sml:6.81pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">To personalize our
+                    communication with you, including to:</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:6.81pt">
+                <span style="font:7pt 'Times New Roman'; -aw-list-padding-sml:6.81pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">contact you to promote our
+                    Services</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:6.81pt">
+                <span style="font:7pt 'Times New Roman'; -aw-list-padding-sml:6.81pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">offer in-game surveys</span>
+            </li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:6.81pt">
+                <span style="font:7pt 'Times New Roman'; -aw-list-padding-sml:6.81pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">serve and measure the
+                    effectiveness of advertising</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:6.81pt">
+                <span style="font:7pt 'Times New Roman'; -aw-list-padding-sml:6.81pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">collect any personal
+                    information you may disclose through messages you choose to send to another user or defined group of
+                    users through our message, chat, post or other in-game functions, as well as to collect necessary
+                    personal information belonging to the user(s) you are contacting, in order to facilitate
+                    communication (Note: We will never collect any information sent outside of the functionality of our
+                    Services, including through emails or text messages)</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; margin-bottom:12pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:6.81pt">
+                <span style="font:7pt 'Times New Roman'; -aw-list-padding-sml:6.81pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">send you push notifications
+                    (should you choose to allow that function)—only for users 13 years of age or older in the United
+                    States For some of the purposes described above, </span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f">87 Poker</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f"> may use and perform analytics.
+                    Analytics information supports business analysis and operations, allows product development,
+                    improves products and Services, personalizes content, provides advertising, and makes
+                    recommendations.</span></li>
+        </ol>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">4. How We Share Information</span></h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">We share your personal information with selected third
+                parties in and outside your country, including:</span></p>
+        <ol type="1" style="margin:0pt; padding-left:0pt">
+            <li
+                style="margin-top:12pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">other players and users.
+                    Social features are a core component of our games. Other players and users may,for example, see your
+                    profile data, in-game activities and read the messages you have posted.</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">partners working for
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">87 Poker</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f">. </span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f">87 Poker</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f"> has partners to perform services for
+                    us. These partners process your data only at and according to </span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f">87 Poker</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f">’s instructions to provide the Service,
+                    such as hosting, player support, advertising, analytics and fraud prevention.</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">other companies and public
+                    authorities. In order to combat fraud and illegal activity, we may exchange data with other
+                    companies and organizations and provide it to public authorities in response to lawful requests. We
+                    may also disclose your data based on your consent, to comply with the law or to protect the rights,
+                    property or safety of us, our players or others.</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">related group companies of
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">87 Poker</span><span
+                    style="font-family:Helvetica; font-size:12pt; color:#24292f">, with whom we share your personal
+                    information to operate the Game Services;</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">law enforcement agencies,
+                    public authorities or other judicial bodies and organizations.</span></li>
+            <li
+                style="margin-top:2.65pt; margin-left:36pt; margin-bottom:12pt; text-align:justify; font-family:Calibri; font-size:12pt; list-style-position:inside; -aw-list-padding-sml:12.89pt">
+                <span
+                    style="font:7pt 'Times New Roman'; -aw-list-padding-sml:12.89pt">
+                </span><span style="font-family:Helvetica; font-size:12pt; color:#24292f">a third party that acquires
+                    all or substantially all of us or our business.We will disclose information to a third party in the
+                    event that we sell or buy any business or undergo a merger, in which case we will disclose your data
+                    to the prospective buyer of such business. We will also disclose information to a third party if we
+                    sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets.
+                    In such transactions, user information may be among the transferred assets</span></li>
+        </ol>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">5. How We Store Your Information</span>
+        </h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Your information collected through the Service may be
+                stored and processed in any country in which </span><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">, its Affiliates or Service Providers maintain facilities.
+            </span><span style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">, its Affiliates, or Service Providers may transfer
+                information that we collect about you, including personal information across borders and from your
+                country or jurisdiction to other countries or jurisdictions around the world. If you are located in the
+                European Union or other regions with laws governing data collection and use that may differ from U.S.
+                law, please note that we may transfer information, including personal information, to a country and
+                jurisdiction that does not have the same data protection laws as your jurisdiction.By registering for
+                and using the Service you consent to the transfer of information to any country in which </span><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">, </span><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> Affiliates or Service Providers maintain facilities and
+                the use and disclosure of information about you as described in this Privacy Policy. We use commercially
+                reasonable safeguards to help keep the information collected through the Service secure and take
+                reasonable steps (such as requesting a unique password) to verify your identity before granting you
+                access to your account. However, </span><span style="font-family:Helvetica; color:#24292f">87
+                Poker</span><span style="font-family:Helvetica; color:#24292f"> cannot ensure the security of any
+                information you transmit to </span><span style="font-family:Helvetica; color:#24292f">87
+                Poker</span><span style="font-family:Helvetica; color:#24292f"> or guarantee that information on the
+                Service may not be accessed, disclosed, altered, or destroyed. You are responsible for maintaining the
+                secrecy of your unique password and account information, and for controlling access to emails between
+                you and </span><span style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">, at all times. Your privacy settings may also be affected
+                by changes the social media services you connect to </span><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">. We are not responsible for the functionality, privacy, or
+                security measures of any other organization.</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">6. The Options You Have About Your Personal
+                Data</span></h3>
+        <h4 style="margin-top:24pt; margin-bottom:12pt; line-height:12pt"><span
+                style="font-family:Helvetica; font-size:12pt; color:#24292f">6.1 Access and correct the personal data we
+                hold about you</span></h4>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">You have the right to access and correct your personal
+                data.</span></p>
+        <h4 style="margin-top:24pt; margin-bottom:12pt; line-height:12pt"><span
+                style="font-family:Helvetica; font-size:12pt; color:#24292f">6.2 Opt out of advertising and/or marketing
+                materials</span></h4>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">You may opt out of receiving advertising and/or marketing
+                communications by following the instructions in such communications or by using options provided in the
+                game settings.</span></p>
+        <h4 style="margin-top:24pt; margin-bottom:12pt; line-height:12pt"><span
+                style="font-family:Helvetica; font-size:12pt; color:#24292f">6.3 Other rights</span></h4>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">You also have the right to have your personal data deleted,
+                object how we use or share your personal data, and restrict how we use or share your personal data. You
+                can always withdraw your consent.</span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">If you have questions about data protection, or any
+                requests for resolving issues with your personal data, we encourage you to primarily contact us through
+                E-mai:support@</span><span style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f">.net so we can reply to you more quickly. We will respond
+                to all questions within a reasonable time frame.</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">7. How Long Do We Keep Your Personal
+                Information?</span></h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> retains, uses and stores your information as long as you
+                are playing our games or using our Services, and also for the period necessary to fulfill all the
+                purposes described in this Privacy Policy, in compliance with the applicable laws of your country of
+                residence. We want to inform you that a longer retention period could be required to resolve disputes,
+                or answer regulatory or police requests. In such cases, the collected information will be used and
+                stored until the request is closed.</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">8. Our Policy Concerning Children</span>
+        </h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">We do not knowingly collect, use or share any personal
+                information about children (generally, under the age of 13 or depending on the country where you reside)
+                without verifiable parental consent or as permitted by law. If you are a parent or guardian and you
+                believe your child has provided us with personal information, you can contact us and request your
+                child’s information to be deleted from our system.</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">9. Third-Party Services</span></h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">The Services may link to external sites that are beyond our
+                control. This Privacy Policy only covers the way we treat personal information and non-personal
+                information we collect on the Services. By accessing any external sites, you agree to the privacy
+                policies of those sites. Please understand that external sites may have different policies with respect
+                to the collection, use and disclosure of your personal information. We have no control over, and are not
+                responsible for, the privacy practices of such third parties.</span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">Therefore, you are encouraged to review the privacy
+                policies of all third party services. Without limiting anything in the following section, we are not
+                liable in any way for the actions, inactions or policies of any external services.</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">10. Data Security</span></h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">In order to help ensure a secure and safe player
+                experience, </span><span style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> are continuously developing and implementing
+                administrative, technical and physical security measures to protect your data from unauthorized access
+                or against loss, misuse or alteration.</span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">We will not distribute any users’ data to third party
+                organizations and will not use the data for any commercial purposes.</span></p>
+        <h3 style="margin-top:24pt; margin-bottom:12pt; line-height:13pt"><span
+                style="font-family:Helvetica; font-size:13pt; color:#24292f">11. Changes To Our Privacy Policy</span>
+        </h3>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f">87 Poker</span><span
+                style="font-family:Helvetica; color:#24292f"> may update our Privacy Policy from time to time. We will
+                notify you of any changes by posting the new Privacy Policy on this page.You are advised to review this
+                Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are
+                posted on this page.</span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f"></span></p>
+        <p style="margin-top:2.65pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f"></span></p>
+        <p style="margin-top:0pt; margin-bottom:0pt; font-size:10.5pt"><span style="font-family:Calibri"></span>
+        </p>
+        <p style="margin-top:2.65pt; margin-bottom:12pt; text-align:justify; font-size:10.5pt"><span
+                style="font-family:Calibri"></span></p>
+        <p style="margin-top:2.65pt; margin-left:72pt; margin-bottom:12pt; text-align:justify; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f"></span></p>
+        <p style="margin-top:0pt; margin-bottom:0pt; font-size:10.5pt"><span style="font-family:Calibri"></span>
+        </p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f"></span></p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f"></span></p>
+        <p style="margin-top:0pt; margin-bottom:0pt; font-size:10.5pt"><span style="font-family:Calibri"></span>
+        </p>
+        <p style="margin-top:0pt; margin-bottom:12pt; font-size:12pt"><span
+                style="font-family:Helvetica; color:#24292f"></span></p>
+        <p style="margin-top:0pt; margin-bottom:0pt; font-size:10.5pt"><span style="font-family:Calibri"></span>
+        </p>
+        <p style="margin-top:0pt; margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10.5pt"><span
+                style="font-family:Calibri"></span></p>
+    </div>
+
+</template>
+
+<style>
+ol, ul {
+    list-style: decimal;
+};
+</style>

@@ -1,6 +1,6 @@
 <template>
     <div class="div-main">
-        <lable :label_active="1"></lable>
+        <Lable :label_active="1"></Lable>
 
         <van-row style="height:65vh; display: flex; align-items: flex-end; justify-content: center;">
             <van-col span="12" class="frame-img">
@@ -85,5 +85,10 @@ initializeRouteHandling();
     /* 使内容成为行内块元素 */
     vertical-align: bottom;
     /* 将内容垂直对齐到底部 */
+}
+.explain-png {
+    margin-top: 130px;
+    text-align: center;
+    /* 如果您希望内容水平居中 */
 }
 </style>

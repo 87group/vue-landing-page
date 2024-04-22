@@ -25,12 +25,12 @@
         <van-row>
             <van-col span="6"></van-col>
             <van-col span="12" class="content-content">
-                <img src="/m-img/frame-m.png" style="width: 90vw; height: 80vh;">
+                <img src="/m-img/frame-m.png" style="height: 80vh;">
             </van-col>
             <van-col span="6"></van-col>
         </van-row>
 
-        <explain-m></explain-m>
+        <explain></explain>
 
     </div>
 
@@ -101,24 +101,13 @@ initializeRouteHandling();
     /* 水平居中 */
     margin-top: 10px;
 }
-
-.explain-png {
-    position: fixed;
-    /* 或者使用 position: absolute; 如果您需要它相对于某个父级元素定位 */
-    left: 0;
-    right: 0;
-    bottom: 40px;
-    margin: auto;
-    text-align: center;
-    /* 如果您希望内容水平居中 */
-}
 .content-content{
     display: flex;
     align-items: center;
     /* 垂直居中 */
     justify-content: center;
     /* 水平居中 */
-    margin-top: 50px;
+    margin-top: 3vh;
 }
 .poker-png{
     display: flex;
@@ -131,4 +120,12 @@ initializeRouteHandling();
     position: static;
 }
 
+.explain-png {
+  position: absolute;
+  top: 95vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  font-size: 12px;
+}
 </style>

@@ -33,9 +33,11 @@
 
         <van-row>
             <van-col span="24" class="content-png">
-                <img src="/appstore.png" style="width: 153px; height: 51px;">              
+                <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
+                    <img src="/appstore.png" style="width: 153px; height: 51px;"></a>
                 <div style="width: 10px;"></div>
-                <img src="/Android.png" style="width: 140px; height: 51px;">
+                <a href="">
+                    <img src="/Android.png" style="width: 140px; height: 51px;"></a>
             </van-col>
         </van-row>
 
@@ -47,7 +49,7 @@
             </van-col>
         </van-row> -->
 
-        <explain-m></explain-m>
+        <explain></explain>
 
     </div>
 
@@ -61,6 +63,7 @@ const router = useRouter();
 const route = useRoute();
 
 const show = ref(false);
+let get_val = '';
 
 function showPopup() {
     show.value = true;
@@ -91,7 +94,14 @@ initializeRouteHandling();
 
 // 获取当前页面的 URL
 const queryParams = route.query;
-console.log(queryParams);
+function url_get()
+{
+    if(queryParams.deep_link_value != undefined)
+    {
+        get_val = '?deep_link_value=' + queryParams.deep_link_value + '&deep_link_sub2=' + queryParams.deep_link_sub2;
+    }
+    return get_val;
+}
 
 </script>
 
@@ -122,24 +132,13 @@ console.log(queryParams);
     margin-top: 10px;
 }
 
-.explain-png {
-    position: fixed;
-    /* 或者使用 position: absolute; 如果您需要它相对于某个父级元素定位 */
-    left: 0;
-    right: 0;
-    bottom: 40px;
-    margin: auto;
-    text-align: center;
-    /* 如果您希望内容水平居中 */
-}
-
 .content-content {
     display: flex;
     align-items: center;
     /* 垂直居中 */
     justify-content: center;
     /* 水平居中 */
-    margin-top: 50px;
+    margin-top: 10vh;
     margin-bottom: 20px;
 }
 
@@ -152,5 +151,14 @@ console.log(queryParams);
 
 .van-cell {
     position: static;
+}
+
+.explain-png {
+  position: absolute;
+  top: 95vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  font-size: 12px;
 }
 </style>

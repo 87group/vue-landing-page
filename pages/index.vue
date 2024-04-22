@@ -1,7 +1,7 @@
 <template>
     <div class="div-main">
 
-        <lable :label_active="0"></lable>
+        <Lable :label_active="0"></Lable>
 
         <van-row>
             <van-col span="6"></van-col>
@@ -62,7 +62,7 @@ initializeRouteHandling();
 
 // 获取当前页面的 URL
 const queryParams = route.query;
-function url_get()//deep_link_sub2
+function url_get()
 {
     if(queryParams.deep_link_value != undefined)
     {
@@ -86,7 +86,7 @@ function url_get()//deep_link_sub2
     background-position: center;
     /* 将背景图片居中显示 */
     overflow-x: hidden;
-    overflow-y: hidden; 
+    /* overflow-y: hidden;  */
     /* 保证不会出现左右滚动条 */
 }
 
@@ -104,22 +104,17 @@ function url_get()//deep_link_sub2
     height: 80px;
 }
 
-.explain-png {
-    position: fixed;
-    /* 或者使用 position: absolute; 如果您需要它相对于某个父级元素定位 */
-    left: 0;
-    right: 0;
-    bottom: 40px;
-    margin: auto;
-    text-align: center;
-    /* 如果您希望内容水平居中 */
-}
-
 .content-content {
     display: flex;
     align-items: center;
     /* 垂直居中 */
     justify-content: center;
     /* 水平居中 */
+}
+
+.explain-png {
+    margin-top: 80px;
+    text-align: center;
+    /* 如果您希望内容水平居中 */
 }
 </style>

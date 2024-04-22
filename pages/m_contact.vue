@@ -33,7 +33,7 @@
         <van-row>
             <van-col span="6"></van-col>
             <van-col span="12" class="sup">
-                <a href=""><img src="/sup.png" style="width: 340px; height: 52px;"></a>               
+                <a href="mailto:support@87poker.club"><img src="/sup.png" style="width: 340px; height: 52px;"></a>               
             </van-col>
             <van-col span="6"></van-col>
         </van-row>
@@ -41,12 +41,12 @@
         <van-row>
             <van-col span="6"></van-col>
             <van-col span="12" class="sup">
-                <a href=""><img src="/fac.png" style="width: 340px; height: 52px;"></a>               
+                <a href="https://www.facebook.com/Poker-Hub-102390622281272/"><img src="/fac.png" style="width: 340px; height: 52px;"></a>               
             </van-col>
             <van-col span="6"></van-col>
         </van-row>
 
-        <explain-m></explain-m>
+        <explain> </explain>
 
     </div>
 
@@ -119,24 +119,13 @@ initializeRouteHandling();
     /* 水平居中 */
     margin-top: 10px;
 }
-
-.explain-png {
-    position: fixed;
-    /* 或者使用 position: absolute; 如果您需要它相对于某个父级元素定位 */
-    left: 0;
-    right: 0;
-    bottom: 40px;
-    margin: auto;
-    text-align: center;
-    /* 如果您希望内容水平居中 */
-}
 .content-content{
     display: flex;
     align-items: center;
     /* 垂直居中 */
     justify-content: center;
     /* 水平居中 */
-    margin-top: 230px;
+    margin-top: 25vh;
 }
 .poker-png{
     display: flex;
@@ -154,7 +143,16 @@ initializeRouteHandling();
     /* 垂直居中 */
     justify-content: center;
     /* 水平居中 */
-    margin-top: 20px;
+    margin-top: 3vh;
+}
+
+.explain-png {
+position: absolute;
+  top: 95vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  font-size: 12px;
 }
 
 </style>
