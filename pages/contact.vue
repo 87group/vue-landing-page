@@ -16,7 +16,7 @@
 
         <van-row>
             <van-col span="24" class="sup">
-                <a href="https://www.facebook.com/Poker-Hub-102390622281272/"><img src="/fac.png" style="width: 436px; height: 65px;"></a>                   
+                <a href="https://twitter.com/87pokerofficial"><img src="/fac.png" style="width: 436px; height: 65px;"></a>                   
             </van-col>
         </van-row>
         
