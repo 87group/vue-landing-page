@@ -40,7 +40,7 @@
 
         <van-row>
             <van-col span="6"></van-col>
-            <van-col span="12" class="sup">
+            <van-col span="12" class="sup"> 
                 <a href="https://twitter.com/87pokerofficial"><img src="/fac.png" style="width: 340px; height: 52px;"></a>               
             </van-col>
             <van-col span="6"></van-col>
