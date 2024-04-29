@@ -36,7 +36,7 @@
                 <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
                     <img src="/appstore.png" style="width: 153px; height: 51px;"></a>
                 <div style="width: 10px;"></div>
-                <a href="">
+                <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
                     <img src="/Android.png" style="width: 140px; height: 51px;"></a>
             </van-col>
         </van-row>
@@ -154,11 +154,11 @@ function url_get()
 }
 
 .explain-png {
-  position: absolute;
+  /* position: absolute;
   top: 95vh;
   left: 50%;
   transform: translateX(-50%);
-  width: 100%;
+  width: 100%; */
   font-size: 12px;
 }
 </style>

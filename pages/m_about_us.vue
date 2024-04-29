@@ -121,11 +121,11 @@ initializeRouteHandling();
 }
 
 .explain-png {
-  position: absolute;
+  /* position: absolute;
   top: 95vh;
   left: 50%;
   transform: translateX(-50%);
-  width: 100%;
+  width: 100%; */
   font-size: 12px;
 }
 </style>

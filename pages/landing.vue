@@ -7,9 +7,12 @@
             <van-col span="12">
             </van-col>
             <van-col span="6">
-                <div v-if="param.clubId" class="bordered"><strong style="color: white;">CLUB ID: </strong><strong
-                        class="club_id"> {{ param.clubId }}</strong></div>
-                <div v-else style="height: 58px;"></div>
+                <div class="bordered" v-show="param.clubId !== undefined">
+                    <strong style="color: white;">CLUB ID:</strong>
+                    <strong class="club_id">{{ param.clubId }}</strong>
+                </div>
+                <div v-show="param.clubId === undefined" style="height: 58px;"></div>
+
             </van-col>
         </van-row>
 
@@ -45,16 +48,22 @@ const router = useRouter();
 const route = useRoute();
 var client = false;
 let get_val = '';
-let param = '';
+let param = {};
 
 
 function handleRoute(to, from, next) {
     const userAgent = window.navigator.userAgent;
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
     client = /iPhone|iPad|iPod|Mac/i.test(userAgent);
-    console.log(userAgent);
-    if (to.path === '/loading' && isMobile) {
-        router.push('/m_loading');
+       // 获取原页面的GET参数
+       const queryParams = to.query;
+    if (to.path === '/landing' && isMobile) {
+        const newPath = {
+            path: '/m_landing',
+            query: queryParams // 将原页面的GET参数添加到新路径
+        };
+        router.push(newPath);
+        // router.push('/m_landing');
     } else {
         next();
     };
@@ -144,7 +153,7 @@ function url_get() {
     /* 边框圆角半径为10px */
     padding: 10px 0px 10px 10px;
     /* 可选：为了让内容远离边框，添加一些填充 */
-    width: 250px;
+    width: 255px;
     background-image: url('/club.png');
     object-fit: cover;
     background-size: 100% 100%;
@@ -157,5 +166,6 @@ function url_get() {
     padding: 7px;
     border-radius: 7px;
     /* 边框圆角半径为10px */
+    margin-left: 10px;
 }
 </style>

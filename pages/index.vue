@@ -20,7 +20,7 @@
                 <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
                     <img src="/appstore.png" style="width: 216px; height: 64px;"></a>
                 <div style="width: 20px;"></div>
-                <a href="/">
+                <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">
                     <img src="/Android.png" style="width: 216px; height: 64px;"></a>
                 <!-- <div style="width: 20px;"></div>
                 <a :href="'https://goto-87poker.onelink.me/KMFX/67s7sb1w' + url_get()">

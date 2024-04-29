@@ -26,9 +26,12 @@
 
         <van-row>
             <van-col span="24" style="margin-top: 15vh;    display: flex;align-items: center;justify-content: center;">
-                <div v-if="param.clubId" class="bordered"><strong style="color: white;">CLUB ID: </strong><strong
-                        class="club_id"> {{ param.clubId }}</strong></div>
-                <div v-else style="height: 58px;"></div>
+                <div class="bordered" v-show="param.clubId !== undefined">
+                    <strong style="color: white;">CLUB ID:</strong>
+                    <strong class="club_id">{{ param.clubId }}</strong>
+                </div>
+                <div v-show="param.clubId === undefined" style="height: 58px;"></div>
+
             </van-col>
         </van-row>
 
@@ -77,7 +80,7 @@ const route = useRoute();
 const show = ref(false);
 var client = false;
 let get_val = '';
-let param = '';
+let param = {};
 
 function showPopup() {
     show.value = true;
@@ -91,14 +94,22 @@ function handleUpdateSportData(newData) {
 function handleRoute(to, from, next) {
     const userAgent = window.navigator.userAgent;
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
-    client = /iPhone|iPad|iPod|Mac/i.test(userAgent);
-    console.log(userAgent);
-    if (to.path === '/m_loading' && !isMobile) {
-        router.push('/loading');
+    const client = /iPhone|iPad|iPod|Mac/i.test(userAgent);
+
+    // 获取原页面的GET参数
+    const queryParams = to.query;
+    if (to.path == '/m_landing' && !isMobile) {
+        // 构建带有GET参数的新路径
+        const newPath = {
+            path: '/landing',
+            query: queryParams // 将原页面的GET参数添加到新路径
+        };
+        router.push(newPath);
     } else {
         next();
-    };
+    }
 }
+
 
 function initializeRouteHandling() {
     if (typeof window !== 'undefined' && window.navigator) {
@@ -172,13 +183,14 @@ function url_get() {
 }
 
 .explain-png {
-  position: absolute;
-  top: 95vh;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100%;
-  font-size: 12px;
+    /* position: absolute;
+    top: 95vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%; */
+    font-size: 12px;
 }
+
 .button_dow {
     background-color: rgb(12, 12, 12);
     border-radius: 10px;
@@ -187,6 +199,7 @@ function url_get() {
     display: flex;
     align-items: center;
 }
+
 .bordered {
     border: 2px solid rgb(218, 218, 218);
     /* 边框为2px宽，黑色实线 */
@@ -194,7 +207,7 @@ function url_get() {
     /* 边框圆角半径为10px */
     padding: 10px 0px 10px 10px;
     /* 可选：为了让内容远离边框，添加一些填充 */
-    width: 250px;
+    width: 255px;
     background-image: url('/club.png');
     object-fit: cover;
     background-size: 100% 100%;
@@ -207,5 +220,6 @@ function url_get() {
     padding: 7px;
     border-radius: 7px;
     /* 边框圆角半径为10px */
+    margin-left: 10px;
 }
 </style>
