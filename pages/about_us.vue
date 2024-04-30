@@ -1,14 +1,37 @@
 <template>
     <div class="div-main">
-        <Lable :label_active="1"></Lable>
 
-        <van-row style="height:65vh; display: flex; align-items: flex-end; justify-content: center;">
-            <van-col span="12" class="frame-img">
-                <img src="/frame.png" style="aspect-ratio: 66/56; height: 60vh;padding-left: 10vw;">
+        <van-sticky>
+        <van-row style="background-color: #000000 !important; width: 100% !important; height: 50px;">
+            <van-col :span="14" class="poker-png">
+                <img src="/87-poker.png" style="width: 138px; height: 29px; margin-left: 10px;">
             </van-col>
-            <van-col span="12" class="frame-img">   
-                <img src="/star.png" style="aspect-ratio: 54/46; height: 50vh;padding-right: 10vw;">
+
+            <van-col :span="5">
+    
             </van-col>
+
+            <van-col :span="5" style="height: 50px;">
+                <van-cell @click="showPopup" style="background-color: #000000 !important; ">
+                    <div style="float: right;">
+                            <div class="div_line"></div>
+                            <div class="div_line"></div>
+                            <div class="div_line"></div>
+                        </div>
+                </van-cell>
+                <van-popup v-model:show="show" closeable position="right" :style="{ width: '100%', height: '100%' }">
+                    <menu-head @updateSportData="handleUpdateSportData" :label_active="1"></menu-head>
+                </van-popup>
+            </van-col>
+        </van-row>
+    </van-sticky>
+
+        <van-row>
+            <van-col span="6"></van-col>
+            <van-col span="12" class="content-content">
+                <img src="/m-img/frame-m.png" style="height: 80vh;">
+            </van-col>
+            <van-col span="6"></van-col>
         </van-row>
 
         <explain></explain>
@@ -18,16 +41,28 @@
 
 </template>
 <script setup>
+import { ref } from 'vue';
 import { useRouter, useRoute } from 'vue-router';
 
 const router = useRouter();
 const route = useRoute();
 
+const show = ref(false);
+
+function showPopup() {
+    show.value = true;
+};
+
+//关闭遮罩层
+function handleUpdateSportData(newData) {
+    show.value = false;
+}
+
 function handleRoute(to, from, next) {
     const userAgent = window.navigator.userAgent;
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
-    if (to.path === '/about_us' && isMobile) {
-        router.push('/m_about_us');
+    if (to.path === '/about_us' && !isMobile) {
+        router.push('/c_about_us');
     } else {
         next();
     };
@@ -41,54 +76,67 @@ function initializeRouteHandling() {
 }
 initializeRouteHandling();
 
+
 </script>
 
 <style scoped>
 .div-main {
     width: 100vw;
     height: 100vh;
-
-    background-image: url('/main-empty.png');
+    object-fit: cover;
+    background-image: url('/m-img/main-empty-m.png');
     background-size: 100% 100%;
     /* 让背景图片拉伸以填满整个容器 */
     background-repeat: no-repeat;
     /* 禁止背景图片重复 */
     background-position: center;
     /* 将背景图片居中显示 */
-    overflow-x: hidden;
-    overflow-y: hidden; 
-    /* 保证不会出现左右滚动条 */
 }
 
 .body {
     background-color: black !important;
 }
 
-.left-png {
+.content-png {
     display: flex;
     align-items: center;
     /* 垂直居中 */
-    /* 水平居中 */
-    margin-top: 30px;
-    height: 100px;
-    padding-left: 50px;
-}
-
-.frame-img {
-    display: flex;
     justify-content: center;
     /* 水平居中 */
+    margin-top: 10px;
+}
+.content-content{
+    display: flex;
+    align-items: center;
+    /* 垂直居中 */
+    justify-content: center;
+    /* 水平居中 */
+    margin-top: 3vh;
+}
+.poker-png{
+    display: flex;
+    align-items: center;
+    /* 垂直居中 */
+    justify-content: flex-start;
 }
 
-.content {
-    display: inline-block;
-    /* 使内容成为行内块元素 */
-    vertical-align: bottom;
-    /* 将内容垂直对齐到底部 */
+.van-cell {
+    position: static;
 }
+
 .explain-png {
-    margin-top: 130px;
-    text-align: center;
-    /* 如果您希望内容水平居中 */
+  /* position: absolute;
+  top: 95vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%; */
+  font-size: 12px;
+}
+/* //// */
+.div_line{
+    height: 3px;
+    width: 25px;
+    margin-top: 6px;
+    background-color: rgb(255, 255, 255);
 }
 </style>

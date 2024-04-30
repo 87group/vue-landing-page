@@ -4,16 +4,16 @@
         <van-col span="8" class="left-png"><img src="/87-poker.png" style="width: 259px; height: 55px;"></van-col>
         <van-col span="8">
             <van-tabbar v-model="label_active" :fixed="false" :safe-area-inset-bottom="false" class="div-label">
-                <van-tabbar-item replace to="/"> <template #icon="props">
+                <van-tabbar-item replace to="/c_index"> <template #icon="props">
                     <div  class="div_lable" style="margin-left: 50px;" :style="{ 'width': props.active ? '120px' : '60px', 'height': props.active ? '45px' : '20px','background-color': props.active ? 'rgb(30, 255, 176)' : '', 'border-radius': props.active ? '100px' : 'none','color':props.active ? '#000' : '#fff' }">HOME</div>
                     </template></van-tabbar-item>
 
-                <van-tabbar-item replace to="/about_us"> <template #icon="props">
+                <van-tabbar-item replace to="/c_about_us"> <template #icon="props">
                     <div  class="div_lable" :style="{ 'width': props.active ? '150px' : '120px', 'height': props.active ? '45px' : '20px','background-color': props.active ? 'rgb(30, 255, 176)' : '', 'border-radius': props.active ? '100px' : 'none','color':props.active ? '#000' : '#fff' }">ABOUT US</div>
 
                     </template></van-tabbar-item>
 
-                <van-tabbar-item replace to="/contact"> <template #icon="props">
+                <van-tabbar-item replace to="/c_contact"> <template #icon="props">
                     <div  class="div_lable" :style="{ 'width': props.active ? '180px' : '140px', 'height': props.active ? '45px' : '20px','background-color': props.active ? 'rgb(30, 255, 176)' : '', 'border-radius': props.active ? '100px' : 'none','color':props.active ? '#000' : '#fff' }">CONTACT US</div>
 
                     </template></van-tabbar-item>

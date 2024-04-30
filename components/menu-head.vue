@@ -6,15 +6,15 @@
         </div>
 
         <van-row class="van-row-custom">
-            <van-col span="12" style="color: #fff;"><a class="rotom" href="/m_index" :style="{ color: label_active == 0 ?'#1EFFB0':'#fff' }">HOME</a> </van-col>
+            <van-col span="12" style="color: #fff;"><a class="rotom" href="/" :style="{ color: label_active == 0 ?'#1EFFB0':'#fff' }">HOME</a> </van-col>
         </van-row>
 
         <van-row class="van-row-custom">
-            <van-col span="12" style="color: #fff;"><a class="rotom" href="/m_about_us" :style="{ color: label_active == 1 ?'#1EFFB0':'#fff' }">ABOUT US</a> </van-col>
+            <van-col span="12" style="color: #fff;"><a class="rotom" href="/about_us" :style="{ color: label_active == 1 ?'#1EFFB0':'#fff' }">ABOUT US</a> </van-col>
         </van-row>
  
         <van-row class="van-row-custom">
-            <van-col span="12" style="color: #fff;"><a class="rotom" href="/m_contact" :style="{ color: label_active == 2 ?'#1EFFB0':'#fff' }">CONTACT US</a></van-col>
+            <van-col span="12" style="color: #fff;"><a class="rotom" href="/contact" :style="{ color: label_active == 2 ?'#1EFFB0':'#fff' }">CONTACT US</a></van-col>
         </van-row>
    
     </div>
@@ -61,4 +61,5 @@ color: #00ff5e;
     width: 120vw;
     height: 40px;
 }
+
 </style>
