@@ -36,7 +36,7 @@
         <van-row>
             <van-col span="6"></van-col>
             <van-col span="12" class="content-content">
-                <img src="/content.png" style="width: 100vw;">
+                <img src="/m-img/content-m.png" style="width: 100vw;">
             </van-col>
             <van-col span="6"></van-col>
         </van-row>
@@ -76,7 +76,12 @@ const route = useRoute();
 
 const show = ref(false);
 let get_val = '';
-let loading_is = ref(true);
+const loading_is = ref(true);
+
+onMounted(() => {
+  console.log('页面加载完成！');
+  loading_is.value = false;
+});
 
 function showPopup() {
     show.value = true;
@@ -90,16 +95,10 @@ function handleUpdateSportData(newData) {
 function handleRoute(to, from, next) {
     const userAgent = window.navigator.userAgent;
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
-    
-    setTimeout(function() {
-    loading_is = false;
-}, 1000); // 1000毫秒 = 1秒
     if (to.path === '/' && !isMobile) {
         router.push('/c_index');
-        loading_is = false;
     } else {
         next();
-        loading_is = false;
     };
 }
 
@@ -129,7 +128,7 @@ function url_get()
     width: 100vw;
     height: 100vh;
     object-fit: cover;
-    background-image: url('/m-img/main-m.png');
+    background-image: url('/m-img/main-m.jpg');
     background-size: 100% 100%;
     /* 让背景图片拉伸以填满整个容器 */
     background-repeat: no-repeat;

@@ -47,20 +47,23 @@ import { ref } from 'vue';
 const router = useRouter();
 const route = useRoute();
 let get_val = '';
-let loading_is = ref(true);
+const loading_is = ref(true);
+
+import { onMounted } from 'vue';
+
+onMounted(() => {
+  console.log('页面加载完成！');
+  loading_is.value = false;
+  console.log(loading_is);
+});
 
 function handleRoute(to, from, next) {
     const userAgent = window.navigator.userAgent;
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
-    setTimeout(function() {
-    loading_is = false;
-}, 1000); // 1000毫秒 = 1秒
     if (to.path === '/c_index' && isMobile) {
         router.push('/');
-        loading_is = false;
     } else {
         next();
-        loading_is = false;
     };
 }
 
