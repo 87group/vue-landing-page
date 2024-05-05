@@ -7,13 +7,13 @@
 
 <style setup>   
 .explain-png {
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    padding: 10px; /* 添加一些内边距，以增加内容与屏幕边缘的间距 */
-    box-sizing: border-box; /* 设置盒模型为边框盒模型，以便 padding 不会增加元素的宽度 */
-    text-align: center; /* 文字居中 */
+    padding: 10px; 
+    box-sizing: border-box; 
+    text-align: center; 
 }
 
 </style>

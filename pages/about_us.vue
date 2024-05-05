@@ -125,11 +125,11 @@ initializeRouteHandling();
 }
 
 .explain-png {
-  /* position: absolute;
-  top: 95vh;
+  position: absolute;
+  top: 93vh;
   left: 50%;
   transform: translateX(-50%);
-  width: 100%; */
+  width: 100%;
   font-size: 12px;
 }
 /* //// */

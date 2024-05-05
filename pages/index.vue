@@ -36,7 +36,7 @@
         <van-row>
             <van-col span="6"></van-col>
             <van-col span="12" class="content-content">
-                <img src="/m-img/content-m.png" style="width: 100vw;">
+                <img src="/m-img/content-m.png" style=" width: 100vw;">
             </van-col>
             <van-col span="6"></van-col>
         </van-row>
@@ -58,11 +58,11 @@
                 <img src="/google.png" style="width: 172px; height: 51px;">
             </van-col>
         </van-row> -->
-
-        <explain></explain>
         <div v-if="loading_is">
                 <loading></loading>
         </div>
+
+        <explain></explain>
     </div>
 
 
@@ -156,7 +156,7 @@ function url_get()
     /* 垂直居中 */
     justify-content: center;
     /* 水平居中 */
-    margin-top: 10vh;
+    margin-top: 2vh;
     margin-bottom: 20px;
 }
 
@@ -172,11 +172,11 @@ function url_get()
 }
 
 .explain-png {
-  /* position: absolute;
-  top: 95vh;
+  position: absolute;
+  top: 93vh;
   left: 50%;
   transform: translateX(-50%);
-  width: 100%; */
+  width: 100%;
   font-size: 12px;
 }
 

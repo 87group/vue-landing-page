@@ -1,36 +1,14 @@
 <template>
     <div class="div-main">
 
-        <!-- <van-sticky>
-            <van-row style="background-color: #000000 !important; width: 100% !important; height: 50px;">
-                <van-col :span="14" class="poker-png">
-                    <img src="/87-poker.png" style="width: 138px; height: 29px; margin-left: 10px;">
-                </van-col>
-
-                <van-col :span="5">
-
-                </van-col>
-
-                <van-col :span="5" style="height: 50px;">
-                    <van-cell @click="showPopup" style="background-color: #000000 !important; ">
-                        <van-image class="menu-image" src="/m-img/menu.png" style="width: 20px; height: 20px;" />
-                    </van-cell>
-                    <van-popup v-model:show="show" closeable position="right"
-                        :style="{ width: '100%', height: '100%' }">
-                        <menu-head @updateSportData="handleUpdateSportData" :label_active="0"></menu-head>
-                    </van-popup>
-                </van-col>
-            </van-row>
-        </van-sticky> -->
-
 
         <van-row>
-            <van-col span="24" style="margin-top: 5vh;    display: flex;align-items: center;justify-content: center;">
+            <van-col span="24" style="margin-top: 0vh;    display: flex;align-items: center;justify-content: center;">
                 <div class="bordered" v-show="param.clubId !== undefined">
                     <strong style="color: white;">CLUB ID:</strong>
                     <strong class="club_id">{{ param.clubId }}</strong>
                 </div>
-                <div v-show="param.clubId === undefined" style="height: 58px;"></div>
+                <div v-show="param.clubId === undefined" style="height: 28px;"></div>
 
             </van-col>
         </van-row>
@@ -183,12 +161,12 @@ function url_get() {
 }
 
 .explain-png {
-    /* position: absolute;
-    top: 95vh;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100%; */
-    font-size: 12px;
+  position: absolute;
+  top: 93vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  font-size: 12px;
 }
 
 .button_dow {
