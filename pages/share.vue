@@ -9,7 +9,7 @@
   export default {
     head() {
       return {
-        title: "Poker Hub Join and Battle Against Poker Lovers Now!",
+        title: "87Poker  Join and Battle Against Poker Lovers Now!",
         meta: [
           { charset: "utf-8" },
           { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -22,7 +22,7 @@
           {
             property: "og:description",
             content:
-              "Click to join Club？ Poker lovers are waiting for you to battle!Poker Hub is the world's largest club-based poker platform. Games like NLH, PLO, OFC and 6+ are readily available, so come and battle against a worldwide player pool and become a Global Tournament champion!"
+              "Click to join Club？ Poker lovers are waiting for you to battle!87Poker is the world's largest club-based poker platform. Games like NLH, PLO, OFC and 6+ are readily available, so come and battle against a worldwide player pool and become a Global Tournament champion!"
           },
           { property: "og:ttl", content: "345600" },
           {
