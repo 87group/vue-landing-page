@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My 87Poker Action</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="fb:app_id" content="766142250183785" />
+  <meta property="og:type" content="article" />
+  <!-- <meta property="og:url" content="http://pppoker.club/poker/api/share.php?share_type=club&id=3258633_0&club_id=3258633&lan=en&uid=6204583&type=1&share_platform=copylink&club_name=%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F&time=1630565782&lang=en&debug=1" /> -->
+  <meta property="og:title" content="My  87Poker Action!" />
+  <!-- <meta property="og:description" content="Click to join Club？ Poker lovers are waiting for you to battle!Poker Hub is the world's largest club-based poker platform. Games like NLH, PLO, OFC and 6+ are readily available, so come and battle against a worldwide player pool and become a Global Tournament champion!"
+    /> -->
+  <meta property="og:ttl" content="345600" />
+  <meta property="og:image" content="./img/brand.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1070" />
+  <meta property="og:image:height" content="480" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="My 87Poker Action!" />
+  <meta name="twitter:image:src" content="brand.jpg" />
+  <script src="https://cdn.jsdelivr.net/npm/js-base64@3.7.2/base64.min.js"></script>
+
+  <script src="js/jquery-1.12.4.min.js"></script>
+</head>
+
+<body>
+  <div>
+    <div><img src="brand.jpg"></div>
+    <div>My 87Poker Action!</div>
+  </div>
+  <script>
+    function getQueryString(name) {
+      var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)', 'i');
+      var r = window.location.search.substr(1).match(reg);
+      if (r != null) {
+        return unescape(r[2]);
+      }
+      return null;
+    }
+    // console.log(Base64.encodeURI('http://34.105.9.23:8005//poker/Frame/rls_210708_v1/index.html?shareKey=87c1417b-9024-5d8c-8b86-65b2241a8144&lan=sc&preHead=http://34.105.9.23:8004/&handslog=http://34.105.9.23:8004/handslog/'));
+    // console.log(Base64);
+    // console.log(Base64.decode('aHR0cDovLzM0LjEwNS45LjIzOjgwMDUvL3Bva2VyL0ZyYW1lL3Jsc18yMTA3MDhfdjEvaW5kZXguaHRtbD9zaGFyZUtleT04N2MxNDE3Yi05MDI0LTVkOGMtOGI4Ni02NWIyMjQxYTgxNDQmbGFuPXNjJnByZUhlYWQ9aHR0cDovLzM0LjEwNS45LjIzOjgwMDQvJmhhbmRzbG9nPWh0dHA6Ly8zNC4xMDUuOS4yMzo4MDA0L2hhbmRzbG9nLw=='));
+    const url = Base64.decode(getQueryString("url"))
+    if (url) {
+      window.location.href = url;
+    }
+  </script>
+</body>
+
+</html>
